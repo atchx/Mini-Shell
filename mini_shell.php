@@ -11,6 +11,7 @@
 		<meta name="revisit-after" content="1800" />
 		<meta name="language" content="en" />
 		<meta content='general' name='rating' />
+		<meta name="robots" content="noindex">
 		<meta content='google' name='generator' />
 		<meta content='follow,all' name='msnbot' />
 		<meta content='follow,all' name='alexabot' />
